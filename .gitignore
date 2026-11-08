@@ -1,0 +1,40 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+
+# Tauri / Rust
+src-tauri/target/
+src-tauri/gen/
+
+# Python / Backend
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env & Secrets
+.env
+*.env
+secrets/
+
+# Database & Local Data
+*.db
+*.sqlite3
+
+# AI Models
+models/
+*.gguf
+*.onnx
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
