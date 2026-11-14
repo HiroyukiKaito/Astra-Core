@@ -12,9 +12,13 @@
   "app": {
     "windows": [
       {
-        "title": "astra-core",
-        "width": 800,
-        "height": 600
+      "title": "Astra-Core.sys",
+      "width": 1440,
+      "height": 900,
+      "minWidth": 1024,
+      "minHeight": 700,
+      "resizable": true,
+      "center": true
       }
     ],
     "security": {
